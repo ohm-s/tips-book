@@ -7,4 +7,4 @@ description: >-
 
 # 404 - Title Not Found
 
-I would love to hear back from you and feel free to send a pull request to improve the content published here
+I would love to hear back from you and feel free to send a pull request to improve the content published here on this [repo](https://github.com/ohm-s/tips-book)
